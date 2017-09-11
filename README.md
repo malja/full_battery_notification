@@ -30,3 +30,6 @@ Default configuration:
 
 ## How does it look?
 ![Image of the notification](https://raw.githubusercontent.com/malja/full_battery_notification/master/ScreenShot.png)
+
+## Icon
+Icon made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com/") is licensed by [CC 3.0](http://creativecommons.org/licenses/by/3.0/).
