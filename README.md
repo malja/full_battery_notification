@@ -5,6 +5,12 @@ it is fully charged, a notification with sound is created.
 
 It allows user to define custom icon, text and duration for shown notification.
 
+## Usage
+
+Download one of the [releases](https://github.com/malja/full_battery_notification/releases) 
+([latest one](https://github.com/malja/full_battery_notification/releases/tag/v1.1)). Unzip it and follow instructions 
+in Readme.txt file.
+
 ## Configuration
 
 Configuration is loaded from file config.psd1 in current working directory. It has to consist of following keys:
@@ -31,5 +37,5 @@ Default configuration:
 ## How does it look?
 ![Image of the notification](https://raw.githubusercontent.com/malja/full_battery_notification/master/ScreenShot.png)
 
-## Icon
-Icon made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com/") is licensed by [CC 3.0](http://creativecommons.org/licenses/by/3.0/).
+## Icons
+- FullBattery.ico - made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com/") is licensed by [CC 3.0](http://creativecommons.org/licenses/by/3.0/).

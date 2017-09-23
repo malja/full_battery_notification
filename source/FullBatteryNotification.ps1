@@ -61,7 +61,7 @@
 ######### CONFIGURATION
 
 # Load configuration file and save it to $Config variable
-Import-LocalizedData -FileName "config.psd1" -BindingVariable Config
+Import-LocalizedData -FileName "Config.psd1" -BindingVariable Config
 
 ######### NOTIFICATION
 
